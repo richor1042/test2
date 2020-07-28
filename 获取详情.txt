@@ -1,0 +1,33 @@
+GET https://trade-acs.m.taobao.com/gw/mtop.taobao.detail.getdetail/6.0/?data=%7B%22detail_v%22%3A%223.3.2%22%2C%22exParams%22%3A%22%7B%5C%22NAV_START_ACTIVITY_TIME%5C%22%3A%5C%221595227686201%5C%22%2C%5C%22NAV_TO_URL_START_TIME%5C%22%3A%5C%221595227686144%5C%22%2C%5C%22ad_type%5C%22%3A%5C%221.0%5C%22%2C%5C%22appReqFrom%5C%22%3A%5C%22detail%5C%22%2C%5C%22clickid%5C%22%3A%5C%22A17_383874286015952276861597331%5C%22%2C%5C%22container_type%5C%22%3A%5C%22xdetail%5C%22%2C%5C%22countryCode%5C%22%3A%5C%22CN%5C%22%2C%5C%22cpuCore%5C%22%3A%5C%224%5C%22%2C%5C%22cpuMaxHz%5C%22%3A%5C%222457600%5C%22%2C%5C%22device%5C%22%3A%5C%2267%5C%22%2C%5C%22dinamic_v3%5C%22%3A%5C%22true%5C%22%2C%5C%22epid%5C%22%3A%5C%22430931_1007%5C%22%2C%5C%22item_id%5C%22%3A%5C%2215561658658%5C%22%2C%5C%22itemid%5C%22%3A%5C%2215561658658%5C%22%2C%5C%22latitude%5C%22%3A%5C%2224.489028%5C%22%2C%5C%22locate%5C%22%3A%5C%22guessitem-item%5C%22%2C%5C%22longitude%5C%22%3A%5C%22118.185279%5C%22%2C%5C%22osVersion%5C%22%3A%5C%2223%5C%22%2C%5C%22phoneType%5C%22%3A%5C%22MI+4LTE%5C%22%2C%5C%22pvid%5C%22%3A%5C%22040828e1-f9bc-4516-a7fb-307b277621ee%5C%22%2C%5C%22rmdChannelCode%5C%22%3A%5C%22guessULike%5C%22%2C%5C%22scm%5C%22%3A%5C%221007.10088.118848.786_1424_1783_1863_1684_9002_10609_1464_1330_1701_5653_4315_5212_9185_6056_2999%5C%22%2C%5C%22soVersion%5C%22%3A%5C%222.0%5C%22%2C%5C%22spm%5C%22%3A%5C%22a2141.1.guessitemtab_1.6%5C%22%2C%5C%22spm-cnt%5C%22%3A%5C%22a2141.7631564%5C%22%2C%5C%22ultron2%5C%22%3A%5C%22true%5C%22%2C%5C%22utdid%5C%22%3A%5C%22XvwsDggNys8DAPnnqIT8AKDr%5C%22%7D%22%2C%22itemNumId%22%3A%2215561658658%22%7D HTTP/1.1
+x-features: 27
+c-launch-info: 0,0,1595227686274,1595227255000
+x-page-name: com.taobao.android.detail.wrapper.activity.DetailActivity
+x-location: 118.185279%2C24.489028
+user-agent: MTOPSDK%2F3.1.1.7+%28Android%3B6.0.1%3BXiaomi%3BMI+4LTE%29
+x-ttid: 700407%40taobao_android_8.8.0
+cache-control: no-cache
+a-orange-q: appKey=21646297&appVersion=8.8.0&clientAppIndexVersion=1120200720144403135&clientVersionIndexVersion=1220200720144403135
+x-region-channel: CN
+x-appkey: 21646297
+x-nq: WIFI
+x-mini-wua: HHnB_9RBqCPwUpAGcODBLg87C9MxV11QHWL%2FcOzvFkrfKZIrgERK%2FpXq1gjrYQBpFVRLZ4aTorRNlV8PBbviyGFlGWBzbSDhbx2tCtgUpj2yqa%2FQ63BH4FJOpyzzMP4HPp0BJ
+x-c-traceid: XvwsDggNys8DAPnnqIT8AKDr1595227686309004618629
+A-SLIDER-Q: appKey%3D21646297%26ver%3D1595227548968
+x-app-conf-v: 0
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+x-bx-version: 6.4.1
+x-pv: 6.2
+x-t: 1595227686
+x-app-ver: 8.8.0
+f-refer: mtop
+Cookie: cna=5yecF0BoYSICARuaSXpQ8QKD; isg=BMnJJtSp8m2uSo4Z4ghCHwJV0_cjFr1IKphv4Gs-RbDvsunEs2bNGLfD8FCnp1WA
+x-nettype: WIFI
+x-utdid: XvwsDggNys8DAPnnqIT8AKDr
+x-umt: e99LEmBLOp2p7jVzamBsEGgL6MxWCsRx
+x-devid: An-wSGwtH1H6aR712j7SB3hYJOhjjzmvtzM3QFeaLQZg
+x-sign: ab20380090b8773fafe2478b03b7265452c48390c4fdc6975e
+x-page-url: http%3A%2F%2Fa.m.taobao.com%2Fi15561658658.htm
+Host: trade-acs.m.taobao.com
+Accept-Encoding: gzip
+Connection: Keep-Alive
+
